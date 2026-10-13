@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# PyCharm
+.idea/
+
+# Data — never commit large CSVs
+data/raw/*.csv
+data/processed/*
+!data/raw/.gitkeep
+
+# PySpark / Delta artifacts
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Airflow
+airflow.db
+airflow.cfg
+logs/
+*.log
+
+# Secrets
+*.pem
+*.key
+secrets.txt
