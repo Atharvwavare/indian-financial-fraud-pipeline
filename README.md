@@ -25,7 +25,7 @@ This project simulates how a real bank processes daily transactions to detect fr
 
 
 
-![Alt text](images/architecture.jpg)
+![Alt text](images/Architecture.jpg)
 
 
 
