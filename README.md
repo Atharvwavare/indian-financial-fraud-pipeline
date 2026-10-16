@@ -15,9 +15,6 @@ This project simulates how a real bank processes daily transactions to detect fr
 5. **Query** for fraud insights using SQL
 6. **Version** every table change with Delta Lake time travel
 
-**Author:** Atharv Yogesh Wavare
-**GitHub:** [github](https://github.com/Atharvwavare)
-**LinkedIn:** [Linkedin](https://linkedin.com/in/atharvwavare)
 
 ---
 
